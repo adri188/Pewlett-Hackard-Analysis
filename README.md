@@ -10,13 +10,13 @@ Now that Bobby has proven his SQL chops, his manager has given both of you two m
 
 The upcoming "silver tsunami." Will impact 72458 roles with following impact by role 
 
-![Retiring Employees(Data/Retiring_Titles.png)
+![Retiring Employees](Data/Retiring_Titles.png)
 
 ### Mentorship Eligibility 
 
 
 
-![Mentorship(Data/Mentorship.png)
+![Mentorship](Data/Mentorship.png)
 
 ## Summary
 
